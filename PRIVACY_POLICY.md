@@ -29,7 +29,7 @@ Data refined and exported through the Extension remains under your control. Sinc
 
 ## 5. Contact
 
-If you have questions about this Privacy Policy, you can open an issue on the [GitHub Repository](https://github.com/DVRK-ORG/ai-studio-exporter).
+If you have questions about this Privacy Policy, you can open an issue on the [GitHub Repository](https://github.com/Vullki/ai-studio-exporter).
 
 ---
-*Powered by DVRK-ORG*
+*Powered by Vullki*

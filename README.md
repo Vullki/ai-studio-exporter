@@ -63,7 +63,7 @@ If you prefer to build from source or want to contribute:
 1. **Clone & build**:
 
    ```bash
-   git clone https://github.com/DVRK-ORG/ai-studio-exporter.git
+   git clone https://github.com/Vullki/ai-studio-exporter.git
    cd ai-studio-exporter
    npm install
    npm run build

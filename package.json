@@ -29,10 +29,10 @@
     "typescript": "^5.2.2",
     "vite": "^7.2.4"
   },
-  "author": "DVRK-ORG",
+  "author": "Vullki",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DVRK-ORG/ai-studio-exporter.git"
+    "url": "https://github.com/Vullki/ai-studio-exporter.git"
   },
-  "homepage": "https://github.com/DVRK-ORG/ai-studio-exporter#readme"
+  "homepage": "https://github.com/Vullki/ai-studio-exporter#readme"
 }
